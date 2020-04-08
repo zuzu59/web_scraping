@@ -37,7 +37,24 @@ def disp_debug():
         #print("toto")
         p1 = str(znames[0]).find('mailto:')
         p2 = str(znames[0]).find('"',p1)
-        #print(p1,p2)
+        print(p1,p2)
+        if p1 == -1 and p2 == -1 :
+            print("oups, y'a une erreur !.........................................")
+            print(str(znames[0]))
+            p1 = str(znames[0]).find('http://')
+            p2 = str(znames[0]).find('"',p1)
+            print(p1,p2)    
+            
+            zendcar = str(znames[0])[p2-1:p2]
+            print(zendcar)
+            if zendcar == '.' or zendcar == ';' :
+                print("Y'a encore une erreur -------------------")
+                p2 = p2 - 1
+            if p1 == -1 and p2 == -1 :
+                print("oups, y'a une DEUXIEME erreur !.........................................")
+                p1 = 0
+                p2 = 0
+            
         print(str(znames[0])[p1+7:p2])
         #print(str(znames[0]).find('mailto:'))
         #quit()
