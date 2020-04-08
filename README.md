@@ -1,6 +1,6 @@
 # web_scraping
 Faire un petit extracteur d'adresses e-mail de sites web (Data scraping)
-zf200408.1258
+zf200408.1700
 
 ## Buts
 
@@ -42,11 +42,6 @@ Pour récupérer la liste des descriptions des EMS sur https://www.heviva.ch/ins
 ```
 
 Pour récupérer la liste des adresses e-mail des EMS sur https://www.heviva.ch/institutions.html:
-
-
-ATTENTION ne marche pas encore !
-
-
 ```
 ./scrap_email_ems.py > email_list.txt
 ```
@@ -56,3 +51,9 @@ ATTENTION ne marche pas encore !
 
 https://github.com/epfl-dojo/FMW
 
+
+### Autres méthodes
+
+Il y a aussi Nicolas Borboën qui a fait un scraper mais en JS ;-)
+
+https://github.com/ponsfrilus/scrapems
