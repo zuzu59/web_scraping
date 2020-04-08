@@ -1,0 +1,657 @@
+scrap_email_ems.py ver 0.1.2 zf200408.1544
+https://www.heviva.ch/institutions/detail/ems/5-de-coeur-cat.html
+34 67
+cat.epalinges@montcalme.ch
+https://www.heviva.ch/institutions/detail/ems/alexandra-cpse.html
+34 61
+chp@cpsealexandra.ch
+https://www.heviva.ch/institutions/detail/ems/aubepines-ems-les.html
+34 68
+caffaro.direction@sispsa.ch
+https://www.heviva.ch/institutions/detail/ems/aubonne-cat-de-lhopital-d.html
+34 62
+cat.aubonne@ehc.vd.ch
+https://www.heviva.ch/institutions/detail/ems/baumettes-cat-de-lems-les.html
+34 63
+baumettes@baumettes.ch
+https://www.heviva.ch/institutions/detail/ems/baumettes-cs-de-lems-les.html
+34 63
+baumettes@baumettes.ch
+https://www.heviva.ch/institutions/detail/ems/baumettes-ems-les.html
+34 63
+baumettes@baumettes.ch
+https://www.heviva.ch/institutions/detail/ems/baumettes-lp-de-la-fondation-les.html
+34 63
+baumettes@baumettes.ch
+https://www.heviva.ch/institutions/detail/ems/beau-sejour-cs-de-lems.html
+34 73
+fondation@fondationbeausejour.ch
+https://www.heviva.ch/institutions/detail/ems/beau-sejour-ems.html
+34 73
+fondation@fondationbeausejour.ch
+https://www.heviva.ch/institutions/detail/ems/beau-site-ems.html
+34 61
+direction@ems-fbs.ch
+https://www.heviva.ch/institutions/detail/ems/beausobre-lp-de-la-residence-de.html
+-1 -1
+oups, y'a une erreur !.........................................
+info@alterimo.ch
+https://www.heviva.ch/institutions/detail/ems/bellevue-cat-de-lems.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/berges-du-leman-ems-les.html
+34 55
+admin@fcm63.ch
+https://www.heviva.ch/institutions/detail/ems/bethanie-cs-de-linstitution.html
+34 57
+info@bethanie.ch
+https://www.heviva.ch/institutions/detail/ems/bethanie-institution-de.html
+34 57
+info@bethanie.ch
+https://www.heviva.ch/institutions/detail/ems/bethanie-lp-de-la-residence-de.html
+34 60
+f.risse@bethanie.ch
+https://www.heviva.ch/institutions/detail/ems/bethel-cs.html
+34 62
+info@maison-bethel.ch
+https://www.heviva.ch/institutions/detail/ems/bois-gentil-site-du-petit-flon-ems.html
+34 52
+info@fbg.ch
+https://www.heviva.ch/institutions/detail/ems/bois-gentil-site-de-sauvabelin-ems.html
+34 52
+info@fbg.ch
+https://www.heviva.ch/institutions/detail/ems/borde-foyer-de-la.html
+34 68
+caffaro.direction@sispsa.ch
+https://www.heviva.ch/institutions/detail/ems/burier-maison-de-retraite.html
+34 58
+info@emsburier.ch
+https://www.heviva.ch/institutions/detail/ems/menthue-cat-la.html
+34 70
+lamenthue@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/verger-cat-le.html
+34 69
+leverger@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/sources-cat-les.html
+34 71
+lessources@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/manureva-cat.html
+34 69
+manureva@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/turquoise-cat.html
+34 70
+turquoise@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/cerisiers-ems-les.html
+34 65
+jeanluc.sapin@hibroye.ch
+https://www.heviva.ch/institutions/detail/ems/champ-fleuri-epsm.html
+34 67
+secretariat@champ-fleur.ch
+https://www.heviva.ch/institutions/detail/ems/champ-fleuri-lp-de-lems.html
+34 68
+secretariat@champ-fleuri.ch
+https://www.heviva.ch/institutions/detail/ems/chanella-epsm.html
+34 58
+info@cogestems.ch
+https://www.heviva.ch/institutions/detail/ems/chateau-de-corcelles-ems-le.html
+-1 -1
+oups, y'a une erreur !.........................................
+direction@chateaucorcelles.ch
+https://www.heviva.ch/institutions/detail/ems/chateau-de-fechy-cs.html
+34 62
+info@fondationsilo.ch
+https://www.heviva.ch/institutions/detail/ems/chateau-de-fechy-hnm.html
+34 62
+info@fondationsilo.ch
+https://www.heviva.ch/institutions/detail/ems/chateau-des-novalles-ems.html
+34 64
+info@chateaunovalles.ch
+https://www.heviva.ch/institutions/detail/ems/chateaux-les-site-dechallens.html
+34 61
+info@leschateaux.org
+https://www.heviva.ch/institutions/detail/ems/chateaux-les-site-de-goumoens-la-ville.html
+34 61
+info@leschateaux.org
+https://www.heviva.ch/institutions/detail/ems/chocolatiere-cs.html
+34 65
+sandrine.heuls@altage.ch
+https://www.heviva.ch/institutions/detail/ems/chocolatiere-ems-la.html
+34 65
+sandrine.heuls@altage.ch
+https://www.heviva.ch/institutions/detail/ems/cite-de-la-borde-lp-la.html
+34 54
+ems@fdorme.ch
+https://www.heviva.ch/institutions/detail/ems/cite-lp-de-la-residence-la.html
+34 73
+fondation@fondationbeausejour.ch
+https://www.heviva.ch/institutions/detail/ems/clair-vully-cat-de-lems.html
+34 59
+info@clairvully.ch
+https://www.heviva.ch/institutions/detail/ems/clair-vully-cs-de-lems.html
+34 59
+info@clairvully.ch
+https://www.heviva.ch/institutions/detail/ems/clair-vully-ems.html
+34 59
+info@clairvully.ch
+https://www.heviva.ch/institutions/detail/ems/clair-soleil-ems.html
+34 63
+ems.clairsoleil@fa2.ch
+https://www.heviva.ch/institutions/detail/ems/clairiere-cat-de-la-fondation-la.html
+34 63
+respcat@laclairiere.ch
+https://www.heviva.ch/institutions/detail/ems/clairiere-cs-de-la-fondation-la.html
+34 60
+info@laclairiere.ch
+https://www.heviva.ch/institutions/detail/ems/clairiere-fondation-la.html
+34 60
+info@laclairiere.ch
+https://www.heviva.ch/institutions/detail/ems/clairiere-lp-de-la-fondation-la.html
+34 60
+info@laclairiere.ch
+https://www.heviva.ch/institutions/detail/ems/cle-des-champs-cs-de-lems.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/clef-des-champs-cat-de-lems.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/clef-des-champs-ems.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/clemence-cat-de-la-fondation-la.html
+34 66
+cat@fondation-clemence.ch
+https://www.heviva.ch/institutions/detail/ems/clemence-cs-de-la-fondation.html
+34 81
+fondation-clemence@fondation-clemence.ch
+https://www.heviva.ch/institutions/detail/ems/clemence-fondation.html
+34 71
+clemence@fondation-clemence.ch
+https://www.heviva.ch/institutions/detail/ems/clemence-lp-de-la-fondation.html
+34 81
+fondation-clemence@fondation-clemence.ch
+https://www.heviva.ch/institutions/detail/ems/clos-des-tzams-hnm.html
+34 58
+info@cogestems.ch
+https://www.heviva.ch/institutions/detail/ems/colline-cat-de-lems-la.html
+34 62
+info@emslacolline.org
+https://www.heviva.ch/institutions/detail/ems/colline-ems-la.html
+34 62
+info@emslacolline.org
+https://www.heviva.ch/institutions/detail/ems/rubis-colocation.html
+34 66
+rubis@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/topaze-colocation.html
+34 67
+topaze@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/colombes-ems-les.html
+34 68
+caffaro.direction@sispsa.ch
+https://www.heviva.ch/institutions/detail/ems/colombiere-epsm-la.html
+34 75
+epsmcolombiere@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/commandant-baud-cat-de-lems.html
+34 62
+info@fondationbaud.ch
+https://www.heviva.ch/institutions/detail/ems/commandant-baud-ems.html
+34 62
+info@fondationbaud.ch
+https://www.heviva.ch/institutions/detail/ems/contesse-ems.html
+34 72
+emscontesse@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/coteau-muraz-cat-de-lems.html
+34 55
+cat@ems-fbs.ch
+https://www.heviva.ch/institutions/detail/ems/coteau-muraz-ems.html
+34 61
+direction@ems-fbs.ch
+https://www.heviva.ch/institutions/detail/ems/cottier-boys-cs-de-lems.html
+34 61
+info@cottier-boys.ch
+https://www.heviva.ch/institutions/detail/ems/cottier-boys-ems.html
+34 68
+c.perrenoud@cottier-boys.ch
+https://www.heviva.ch/institutions/detail/ems/diligence-cat-de-lems.html
+34 62
+admin@la-diligence.ch
+https://www.heviva.ch/institutions/detail/ems/donatella-mauri-cat-de-la-fondation.html
+34 68
+animation@donatellamauri.ch
+https://www.heviva.ch/institutions/detail/ems/donatella-mauri-fondation.html
+34 73
+administration@donatellamauri.ch
+https://www.heviva.ch/institutions/detail/ems/eikenott-lp-d.html
+34 66
+greffe.municipal@gland.ch
+https://www.heviva.ch/institutions/detail/ems/douvaz-ems-la.html
+34 70
+emsdouvaz@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/escapade-l-ems.html
+34 65
+sandrine.heuls@altage.ch
+https://www.heviva.ch/institutions/detail/ems/etoile-du-matin-ems.html
+34 55
+admin@fcm63.ch
+https://www.heviva.ch/institutions/detail/ems/faverge-cat-de-lems-la.html
+34 76
+secretariat-reception@emsfaverge.ch
+https://www.heviva.ch/institutions/detail/ems/faverge-cs-de-lems-la.html
+34 76
+secretariat-reception@emsfaverge.ch
+https://www.heviva.ch/institutions/detail/ems/faverge-ems-la.html
+34 76
+secretariat-reception@emsfaverge.ch
+https://www.heviva.ch/institutions/detail/ems/faverge-lp.html
+34 76
+secretariat-reception@emsfaverge.ch
+https://www.heviva.ch/institutions/detail/ems/flon-ems-le.html
+34 73
+leflon.info@fondationdurelais.ch
+https://www.heviva.ch/institutions/detail/ems/halte-relais-cat-de-la-fondation-primeroche.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/grand-pre-cat-de-la-fondation-primeroche.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/valentin-cat-de-la-fondation-primeroche.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/halte-relais-primeroche-cs.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/grand-pre-ems-le.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/lys-ems-les.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/logements-supervises-renens-de-la-fondation-primeroche.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/prilly-lp-de-la-fondation-primeroche.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/grand-pre-lp-de-la-fondation-primeroche.html
+34 59
+info@primeroche.ch
+https://www.heviva.ch/institutions/detail/ems/fougeres-lp-de-la-residence-les.html
+34 62
+info@fondationsilo.ch
+https://www.heviva.ch/institutions/detail/ems/gambetta-cs-de-lems.html
+34 60
+info@emsgambetta.ch
+https://www.heviva.ch/institutions/detail/ems/gambetta-ems.html
+34 65
+direction@emsgambetta.ch
+https://www.heviva.ch/institutions/detail/ems/gambetta-lp-de-lems.html
+34 65
+direction@emsgambetta.ch
+https://www.heviva.ch/institutions/detail/ems/girarde-cat-de-la-residence-la.html
+34 78
+elisabeth.lenoir@fondationdurelais.ch
+https://www.heviva.ch/institutions/detail/ems/girarde-residence-la.html
+34 74
+girarde.info@fondationdurelais.ch
+https://www.heviva.ch/institutions/detail/ems/haute-combe-cs-de-lems.html
+34 67
+pre-pariset@pre-pariset.ch
+https://www.heviva.ch/institutions/detail/ems/haute-combe-ems.html
+-1 -1
+oups, y'a une erreur !.........................................
+
+https://www.heviva.ch/institutions/detail/ems/hirondelles-ems-les.html
+34 55
+admin@fcm63.ch
+https://www.heviva.ch/institutions/detail/ems/home-les-pins-sa-site-le-home.html
+34 63
+info@lehome-lespins.ch
+https://www.heviva.ch/institutions/detail/ems/home-les-pins-sa-site-les-pins.html
+34 63
+info@lehome-lespins.ch
+https://www.heviva.ch/institutions/detail/ems/home-salem.html
+34 65
+home.salem@eben-hezer.ch
+https://www.heviva.ch/institutions/detail/ems/home-salem-cat-intramuros-du.html
+34 64
+cat.salem@eben-hezer.ch
+https://www.heviva.ch/institutions/detail/ems/hopital-daubonne-division-lits-c.html
+34 59
+aubadmin@ehc.vd.ch
+https://www.heviva.ch/institutions/detail/ems/intermede-cat-de-la-fondation-de-lorme.html
+34 54
+ems@fdorme.ch
+https://www.heviva.ch/institutions/detail/ems/jaques-et-charles-duc-epsm.html
+34 70
+christine.semadeni@epsmduc.ch
+https://www.heviva.ch/institutions/detail/ems/jardins-de-la-plaine-cat-de-lems-les.html
+34 68
+fabrizio.dallolio@altage.ch
+https://www.heviva.ch/institutions/detail/ems/jardins-de-la-plaine-ems-les.html
+34 67
+michele.gavillet@altage.ch
+https://www.heviva.ch/institutions/detail/ems/jardins-de-la-plaine-lp-de-lems-les.html
+34 67
+stella.follonier@altage.ch
+https://www.heviva.ch/institutions/detail/ems/jardins-du-leman-ems-les.html
+34 69
+emslesjardinsduleman@ghol.ch
+https://www.heviva.ch/institutions/detail/ems/joli-bois-ems.html
+34 71
+jbinfo@fondationlaprimerose.ch
+https://www.heviva.ch/institutions/detail/ems/jura-ems-du.html
+34 70
+emsdujura@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/kanumera-cat.html
+34 71
+kainfo@fondationlaprimerose.ch
+https://www.heviva.ch/institutions/detail/ems/lentracte-cat.html
+34 71
+eninfo@fondationlaprimerose.ch
+https://www.heviva.ch/institutions/detail/ems/thonney-pension.html
+34 63
+kiny.mottier@altage.ch
+https://www.heviva.ch/institutions/detail/ems/le-chene-ems.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/leman-lp-de-la-residence.html
+34 70
+contact@residence-du-leman.ch
+https://www.heviva.ch/institutions/detail/ems/leman-residence-du.html
+34 70
+contact@residence-du-leman.ch
+https://www.heviva.ch/institutions/detail/ems/lembaz-ems-la.html
+34 60
+info@emslalembaz.ch
+https://www.heviva.ch/institutions/detail/ems/apparts-lp-les.html
+34 71
+lesapparts@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/louis-boissonnet-ems.html
+34 65
+boissonnet@boissonnet.ch
+https://www.heviva.ch/institutions/detail/ems/maillefer-cat-de-la-fondation-bois-gentil.html
+34 60
+referent_CAT@fbg.ch
+https://www.heviva.ch/institutions/detail/ems/maillefer-lp-de-la-fondation-bois-gentil.html
+34 57
+ac.bonard@fbg.ch
+https://www.heviva.ch/institutions/detail/ems/maillon-cs-de-lems-le.html
+34 61
+direction@ems-fbs.ch
+https://www.heviva.ch/institutions/detail/ems/maillon-ems-le.html
+34 61
+direction@ems-fbs.ch
+https://www.heviva.ch/institutions/detail/ems/bethel-maison-de.html
+34 62
+info@maison-bethel.ch
+https://www.heviva.ch/institutions/detail/ems/maison-dorphee.html
+34 69
+direction@lamaisondorphee.ch
+https://www.heviva.ch/institutions/detail/ems/maison-du-pelerin.html
+34 60
+info@ems-pelerin.ch
+https://www.heviva.ch/institutions/detail/ems/marc-aurele-fondation.html
+34 66
+secretariat@marcaurele.ch
+https://www.heviva.ch/institutions/detail/ems/marc-aurele-cat-de-lems.html
+34 66
+secretariat@marcaurele.ch
+https://www.heviva.ch/institutions/detail/ems/marc-aurele-cs-de-lems.html
+34 66
+secretariat@marcaurele.ch
+https://www.heviva.ch/institutions/detail/ems/marronnier-cat-de-lems-le.html
+34 64
+cat@ems-lemarronnier.ch
+https://www.heviva.ch/institutions/detail/ems/marronnier-ems-le.html
+34 65
+info@ems-lemarronnier.ch
+https://www.heviva.ch/institutions/detail/ems/maurice-bugnon-cs-de-lems.html
+34 77
+emsmauricebugnon@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/maurice-bugnon-ems.html
+34 77
+emsmauricebugnon@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/meillerie-ems-la.html
+34 58
+info@meillerie.ch
+https://www.heviva.ch/institutions/detail/ems/meridienne-cat-la.html
+34 71
+meinfo@fondationlaprimerose.ch
+https://www.heviva.ch/institutions/detail/ems/meridienne-ems-la.html
+34 71
+meinfo@fondationlaprimerose.ch
+https://www.heviva.ch/institutions/detail/ems/midi-foyer-du.html
+34 68
+caffaro.direction@sispsa.ch
+https://www.heviva.ch/institutions/detail/ems/mont-calme-fondation.html
+34 64
+mont-calme@montcalme.ch
+https://www.heviva.ch/institutions/detail/ems/mont-riant-ems.html
+34 73
+emsmontriant@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/montbrillant-ems.html
+34 61
+direction@ems-fbs.ch
+https://www.heviva.ch/institutions/detail/ems/moulins-cat-des.html
+34 63
+ajpsyger@eben-hezer.ch
+https://www.heviva.ch/institutions/detail/ems/myosotis-epsm-les.html
+34 60
+myosotis@sefanet.ch
+https://www.heviva.ch/institutions/detail/ems/nelty-de-beausobre-ems.html
+34 56
+emsnb@ehc.vd.ch
+https://www.heviva.ch/institutions/detail/ems/noumea-cat.html
+34 70
+cat.echallens@leschateaux.org
+https://www.heviva.ch/institutions/detail/ems/oasis-ems-l.html
+34 59
+oasis@ems-oasis.ch
+https://www.heviva.ch/institutions/detail/ems/odmer-epsm.html
+34 55
+admin@fcm63.ch
+https://www.heviva.ch/institutions/detail/ems/oiseaux-epsm-les.html
+34 58
+oiseaux@sispsa.ch
+https://www.heviva.ch/institutions/detail/ems/oriel-fondation.html
+34 54
+info@oriel.ch
+https://www.heviva.ch/institutions/detail/ems/orme-fondation.html
+34 64
+ems@fondationdelorme.ch
+https://www.heviva.ch/institutions/detail/ems/ours-cat-de-lems-de-l.html
+34 70
+claudine.siffert@cogestems.ch
+https://www.heviva.ch/institutions/detail/ems/ours-ems-l.html
+34 58
+info@cogestems.ch
+https://www.heviva.ch/institutions/detail/ems/paix-du-soir-cat-de-lems-la.html
+34 71
+claudia.rossetti@paixdusoir.ch
+https://www.heviva.ch/institutions/detail/ems/paix-du-soir-ems-la.html
+34 59
+info@paixdusoir.ch
+https://www.heviva.ch/institutions/detail/ems/palmiers-cat-de-lems-le.html
+34 66
+cat.palmiers@montcalme.ch
+https://www.heviva.ch/institutions/detail/ems/panorama-cat-du-centre-du.html
+34 72
+panorama@fondationbeausejour.ch
+https://www.heviva.ch/institutions/detail/ems/parc-de-beausobre-cat-de-lems-le.html
+-1 -1
+oups, y'a une erreur !.........................................
+
+https://www.heviva.ch/institutions/detail/ems/parc-de-beausobre-ems.html
+34 56
+emspb@ehc.vd.ch
+https://www.heviva.ch/institutions/detail/ems/parc-de-valency-ems.html
+34 65
+sandrine.heuls@altage.ch
+https://www.heviva.ch/institutions/detail/ems/parc-de-valency-lp-de-la-residence.html
+34 66
+marianne.piguet@altage.ch
+https://www.heviva.ch/institutions/detail/ems/pergolas-ems-les.html
+34 55
+admin@fcm63.ch
+https://www.heviva.ch/institutions/detail/ems/phare-elim-ems.html
+34 58
+ems@phare-elim.ch
+https://www.heviva.ch/institutions/detail/ems/plein-sud-lp.html
+34 68
+info@residence-plein-sud.ch
+https://www.heviva.ch/institutions/detail/ems/pommeraie-epsm-la.html
+34 58
+info@cogestems.ch
+https://www.heviva.ch/institutions/detail/ems/praz-joret-residence.html
+34 60
+admin@praz-joret.ch
+https://www.heviva.ch/institutions/detail/ems/praz-sechaud-i.html
+34 65
+sandrine.heuls@altage.ch
+https://www.heviva.ch/institutions/detail/ems/praz-sechaud-ii.html
+34 66
+claude.paponnet@altage.ch
+https://www.heviva.ch/institutions/detail/ems/pre-de-la-couronne-lp-des.html
+34 76
+secretariat-reception@emsfaverge.ch
+https://www.heviva.ch/institutions/detail/ems/pre-de-la-tour-cat-de-lems.html
+34 62
+dsuter@pre-pariset.ch
+https://www.heviva.ch/institutions/detail/ems/pre-de-la-tour-ems.html
+34 66
+cmeierhans@pre-pariset.ch
+https://www.heviva.ch/institutions/detail/ems/pre-fleuri-residence.html
+34 59
+info@pre-fleuri.ch
+https://www.heviva.ch/institutions/detail/ems/pre-pariset-ems.html
+-1 -1
+oups, y'a une erreur !.........................................
+
+https://www.heviva.ch/institutions/detail/ems/pre-carre-epsm-le.html
+34 73
+epsmprecarre@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/prerisa-fondation.html
+34 56
+info@prerisa.ch
+https://www.heviva.ch/institutions/detail/ems/quatre-marronniers-cat-de-lems-les.html
+34 60
+cat@4marronniers.ch
+https://www.heviva.ch/institutions/detail/ems/quatre-marronniers-cs-de-lems-les.html
+-1 -1
+oups, y'a une erreur !.........................................
+s.flückiger@ems4marronniers.ch
+https://www.heviva.ch/institutions/detail/ems/quatre-marronniers-ems-les.html
+34 61
+info@4marronniers.ch
+https://www.heviva.ch/institutions/detail/ems/quatre-saisons-ems-les.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/recordon-ems.html
+34 60
+ems.recordon@fa2.ch
+https://www.heviva.ch/institutions/detail/ems/repere-cat-le.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/agate-residence.html
+34 75
+residenceagate@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/residence-aigle.html
+34 62
+aigle@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/residence-aigle-cat-de-la.html
+34 63
+aigcat@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/residence-aigle-cs-de-la.html
+34 74
+aigadministration@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/residence-diablerets.html
+34 67
+diablerets@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/residence-diablerets-cat-de-la.html
+34 74
+diaadministration@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/residence-diablerets-cs-de-la.html
+34 71
+diasecretariat@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/residence-grande-fontaine.html
+34 60
+bex@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/residence-grande-fontaine-cat-de-la.html
+34 69
+referentecat@ems-chablais.ch
+https://www.heviva.ch/institutions/detail/ems/rosiers-cs-de-lems-les.html
+34 69
+directionsoins@lesrosiers.ch
+https://www.heviva.ch/institutions/detail/ems/rosiers-ems-les.html
+34 59
+info@lesrosiers.ch
+https://www.heviva.ch/institutions/detail/ems/rotillon-epsm-le.html
+34 59
+info@lerotillon.ch
+https://www.heviva.ch/institutions/detail/ems/roulotte-cat.html
+34 62
+admin@la-diligence.ch
+https://www.heviva.ch/institutions/detail/ems/rozavere-fondation-la.html
+34 57
+info@rozavere.ch
+https://www.heviva.ch/institutions/detail/ems/ruisseau-cat-de-prerisa.html
+34 55
+cat@prerisa.ch
+https://www.heviva.ch/institutions/detail/ems/sans-souci-epsm.html
+34 66
+claude.paponnet@altage.ch
+https://www.heviva.ch/institutions/detail/ems/signal-association-le.html
+34 68
+secretariat@ems-lesignal.ch
+https://www.heviva.ch/institutions/detail/ems/silo-fondation.html
+34 62
+info@fondationsilo.ch
+https://www.heviva.ch/institutions/detail/ems/soerensen-la-rosiere-ems-site-de-la-rosiere.html
+34 72
+ems.soerensen-larosiere@chuv.ch
+https://www.heviva.ch/institutions/detail/ems/soerensen-la-rosiere-ems-site-de-soerensen.html
+34 72
+ems.soerensen-larosiere@chuv.ch
+https://www.heviva.ch/institutions/detail/ems/soleil-residence-le.html
+34 55
+admin@fcm63.ch
+https://www.heviva.ch/institutions/detail/ems/sylvabelle-epsm.html
+-1 -1
+oups, y'a une erreur !.........................................
+kiny.mottier@altage.ch
+https://www.heviva.ch/institutions/detail/ems/terrasse-ems-la.html
+34 63
+info@ems-laterrasse.ch
+https://www.heviva.ch/institutions/detail/ems/terrasse-lp-de-lems-la.html
+34 63
+info@ems-laterrasse.ch
+https://www.heviva.ch/institutions/detail/ems/tilleuls-epsm-les.html
+34 66
+claude.paponnet@altage.ch
+https://www.heviva.ch/institutions/detail/ems/quai-uatp-le.html
+34 71
+uatplequai@fondation-saphir.ch
+https://www.heviva.ch/institutions/detail/ems/veillee-ems-la.html
+34 59
+info@la-veillee.ch
+https://www.heviva.ch/institutions/detail/ems/venoge-la-site-de-la-sarraz.html
+34 67
+info@fondation-lavenoge.ch
+https://www.heviva.ch/institutions/detail/ems/venoge-la-site-de-penthalaz-ems.html
+34 67
+info@fondation-lavenoge.ch
+https://www.heviva.ch/institutions/detail/ems/venoge-penthalaz-cat-de-la.html
+34 67
+info@fondation-lavenoge.ch
+https://www.heviva.ch/institutions/detail/ems/venoge-penthalaz-lp-de-lems-la.html
+-1 -1
+oups, y'a une erreur !.........................................
+
+https://www.heviva.ch/institutions/detail/ems/vergers-de-la-longeraie-lp-les.html
+34 70
+astrid.grangier@paixdusoir.ch
+https://www.heviva.ch/institutions/detail/ems/verney-cat-le.html
+34 60
+info@bellesaison.ch
+https://www.heviva.ch/institutions/detail/ems/vernie-ems-la.html
+34 71
+veinfo@fondationlaprimerose.ch

@@ -24,7 +24,7 @@ names = soup.findAll("a", { "class" : "item" })
 def disp_debug():
     zurl_sites_EMS = scrap_email()
     for zitems in zurl_sites_EMS :
-        print(zurl_sites_EMS[zitems])
+        ##print(zurl_sites_EMS[zitems])
         zhtml_page = requests.get(zurl_sites_EMS[zitems])
         zhtml_txt = zhtml_page.text
         zsoup = BeautifulSoup(zhtml_txt, 'html.parser')
@@ -37,21 +37,20 @@ def disp_debug():
         #print("toto")
         p1 = str(znames[0]).find('mailto:')
         p2 = str(znames[0]).find('"',p1)
-        print(p1,p2)
+        ##print(p1,p2)
         if p1 == -1 and p2 == -1 :
-            print("oups, y'a une erreur !.........................................")
-            print(str(znames[0]))
+            #print("oups, y'a une erreur !.........................................")
+            #print(str(znames[0]))
             p1 = str(znames[0]).find('http://')
             p2 = str(znames[0]).find('"',p1)
-            print(p1,p2)    
-            
+            #print(p1,p2)    
             zendcar = str(znames[0])[p2-1:p2]
-            print(zendcar)
+            #print(zendcar)
             if zendcar == '.' or zendcar == ';' :
-                print("Y'a encore une erreur -------------------")
+                #print("Y'a encore une erreur -------------------")
                 p2 = p2 - 1
             if p1 == -1 and p2 == -1 :
-                print("oups, y'a une DEUXIEME erreur !.........................................")
+                #print("oups, y'a une DEUXIEME erreur !.........................................")
                 p1 = 0
                 p2 = 0
             
