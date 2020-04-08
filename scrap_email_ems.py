@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*-
 # Essai de récupération des adresses email sur la descrition des EMS sur https://www.heviva.ch/institutions.html
 
-version = "0.1.2 zf200408.1544"
+version = "0.1.3 zf200408.1647"
 
 print("scrap_email_ems.py ver " + version)
 
+import sys
 import requests
 from bs4 import BeautifulSoup
 
@@ -19,8 +20,6 @@ soup = BeautifulSoup(html_txt, 'html.parser')
 #names = soup.findAll("div", { "class" : "focuspoint" })
 names = soup.findAll("a", { "class" : "item" })
 
-
-
 def disp_debug():
     zurl_sites_EMS = scrap_email()
     for zitems in zurl_sites_EMS :
@@ -29,6 +28,13 @@ def disp_debug():
         zhtml_txt = zhtml_page.text
         zsoup = BeautifulSoup(zhtml_txt, 'html.parser')
         #print(zsoup)
+        
+        ztitre = zsoup.findAll("h1", { "class" : "header" })
+        #print(ztitre)
+        
+        p1 = str(ztitre[0]).find('header">')
+        p2 = str(ztitre[0]).find('<',p1)
+        sys.stdout.write('"' + str(ztitre[0])[p1+8:p2] + '","')
         znames = zsoup.findAll("div", { "class" : "mail" })
         ##print(znames[0])
         # for zattribut in znames[0] :
@@ -54,7 +60,7 @@ def disp_debug():
                 p1 = 0
                 p2 = 0
             
-        print(str(znames[0])[p1+7:p2])
+        print(str(znames[0])[p1+7:p2] + '"')
         #print(str(znames[0]).find('mailto:'))
         #quit()
     
