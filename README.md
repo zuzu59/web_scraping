@@ -1,6 +1,6 @@
 # web_scraping
 Faire un petit extracteur d'adresses e-mail de sites web (Data scraping)
-zf200408.1700
+zf200410.1714
 
 ## Buts
 
@@ -18,7 +18,7 @@ https://www.heviva.ch/institutions.html
 
 ## Moyens
 ### lib Python Beutifulsoup
-On va le faire avec la lib Python Beutifulsoup
+On va le faire avec la lib Python Beautifulsoup
 
 
 ## Installation
@@ -36,7 +36,7 @@ sudo pip install requests
 
 
 ### Utilisation
-Pour récupérer la liste des descriptions des EMS sur https://www.heviva.ch/institutions.html:
+Pour récupérer la liste d'url des descriptions des EMS sur https://www.heviva.ch/institutions.html:
 ```
 ./scrap_url_ems.py > url_list.txt
 ```
